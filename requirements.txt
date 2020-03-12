@@ -40,7 +40,7 @@ Pillow==3.1.2
 plainbox==0.25
 prettytable==0.7.2
 protobuf==3.3.0
-psutil==3.4.2
+psutil==5.6.6
 ptyprocess==0.5
 pyasn1==0.1.9
 pycups==1.9.73
